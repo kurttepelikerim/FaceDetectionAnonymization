@@ -7,7 +7,7 @@ I created a simple tool using OpenCV library which detects faces through webcam 
 
 
 ## Blur face image
-![Blurry](blurImage.png)
+![Blurry](blur.png)
 
 
 
